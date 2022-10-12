@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tanah
+  - Ladder
+  - Trap
+  - Apple
+  - Sign
+  - Bolong
+  - Teleporter
+  - End
+  - Jatoh
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Ground
+  - Tembok
+  - Trap
+  - WorldConfiner
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Props
+    uniqueID: 1584720005
+    locked: 0
+  - name: Background
+    uniqueID: 1932033817
+    locked: 0
+  - name: Foreground
+    uniqueID: 176788033
+    locked: 0
+  - name: Player
+    uniqueID: 2792329891
+    locked: 0
