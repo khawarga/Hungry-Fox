@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 7eb3143325301aa44b491ae57e6e6f90
+  m_SerializeEntries:
+  - m_GUID: 85b90fc79fcf8fe45b9f7299cd567c60
+    m_Address: Assets/Prefab/prefab azis/UI.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a9e97376bf4b3874395386545fae7fac
+    m_Address: Assets/Prefab/prefab azis/tree.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: a2d0d5f952c37b14081460ef19d21ab8
+    m_Address: Assets/Prefab/prefab azis/Spike (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: b0b19a98627a6aa47bd97680a6efb701
+    m_Address: Assets/Prefab/prefab azis/Platform (1).prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ae93693ae54fddf49804f5ccfea1e2c6, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b6e18ba4b10d0414e92983d6864c03ef, type: 2}
+    - {fileID: 11400000, guid: 34af40a9d1b11f24780b6fe41ccb8c74, type: 2}
